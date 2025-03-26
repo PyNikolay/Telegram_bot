@@ -16,3 +16,6 @@ if __name__ == "__main__":
     loop = asyncio.get_event_loop()
     loop.run_until_complete(bot.delete_webhook())
     executor.start_polling(dp, skip_updates=True)
+
+
+print("Add ZeeG")
