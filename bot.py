@@ -4,7 +4,7 @@ from aiogram.filters import Command
 import asyncio
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
-TOKEN = "7938866753:AAE0yEJP4bWfaUpQlNL7Z8Xr_GU7VtGVbcI"
+TOKEN = "YOUR_TOKEN"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
